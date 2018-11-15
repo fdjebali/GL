@@ -12,7 +12,7 @@ int main(void)
         s1=s1+3*n;
         n=n+1;
     }
-    n=2
+    n=2;
     while(a<9876)
     {
         s2=s2+3*n;
@@ -26,7 +26,7 @@ int main(void)
 		s3=s3+rnd;
 		n=n+1;
 	}
-    n=0
+    n=0;
     while(n<20)
     {
         if(n%3==0)

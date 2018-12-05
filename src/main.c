@@ -24,12 +24,9 @@ int main(void)
 		 MessagePopup("erreur",erreur);
 			 
 		 
-	 sprintf(resultat,"La figure %s possède %u sommets",nom_fig,nb_pts);
+	 sprintf(resultat,"La figure %s possï¿½de %u sommets",nom_fig,nb_pts);
 	 MessagePopup("phrase",resultat);
-	 
-	 
-
-	
+	 	
 	return 0;
 	
 }
